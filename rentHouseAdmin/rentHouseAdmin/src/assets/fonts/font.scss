@@ -1,0 +1,10 @@
+/**
+ * 定义一个自定义字体
+ * 
+ * 这个声明块使用 @font-face 规则来引入一个名为 YouSheBiaoTiHei 的自定义字体
+ * 它通过 src 属性指定字体文件的路径，以便在网页中使用
+ */
+@font-face {
+  font-family: YouSheBiaoTiHei;
+  src: url('./YouSheBiaoTiHei.ttf');
+}
